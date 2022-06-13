@@ -1,0 +1,8 @@
+2022-06-13 08:07:34 add apricot deb main amd64 golang-github-youpy-go-riff-dev 1.0+git20131220-1
+2022-06-13 08:07:34 add apricot deb main amd64 golang-github-zaf-g711-dev 1.2-1
+2022-06-13 08:19:37 add apricot deb main amd64 golang-github-youpy-go-wav-dev 0.3.0+ds-1
+2022-08-16 08:23:00 add apricot deb main amd64 golang-github-josharian-native-dev 1.0.0-1
+2022-08-16 08:23:00 add apricot deb main amd64 golang-github-mdlayher-socket-dev 0.2.1-1
+2022-08-16 08:40:02 add apricot deb main amd64 golang-github-mdlayher-netlink-dev 1.6.0-1
+2022-08-25 06:48:26 add apricot deb main amd64 golang-google-protobuf-dev 1.25.0+git20201208.160c747-1
+2022-08-25 06:48:26 add apricot deb main amd64 protoc-gen-go 1.25.0+git20201208.160c747-1
